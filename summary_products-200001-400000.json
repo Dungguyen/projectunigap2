@@ -1,0 +1,18 @@
+{
+  "input_file": "d:\\project2_2\\products-200001-400000.xlsx",
+  "dataset_name": "products-200001-400000",
+  "original_id_count": 200000,
+  "removed_duplicate_or_empty_count": 0,
+  "clean_id_count": 200000,
+  "success_count": 90842,
+  "error_count": 109158,
+  "total_batches": 200,
+  "batch_size": 1000,
+  "concurrency_start": 15,
+  "concurrency_min": 3,
+  "concurrency_max": 50,
+  "elapsed_time": "23:06:25",
+  "output_dir": "d:\\project2_2\\tiki_products\\products-200001-400000",
+  "error_dir": "d:\\project2_2\\tiki_errors\\products-200001-400000",
+  "checkpoint_dir": "d:\\project2_2\\tiki_checkpoints\\products-200001-400000"
+}
